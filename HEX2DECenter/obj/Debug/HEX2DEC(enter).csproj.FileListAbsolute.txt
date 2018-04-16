@@ -1,0 +1,9 @@
+E:\PRODAS XR5\LATIHAN\HEX2DEC(enter)\HEX2DEC(enter)\bin\Debug\HEX2DEC(enter).exe.config
+E:\PRODAS XR5\LATIHAN\HEX2DEC(enter)\HEX2DEC(enter)\obj\Debug\HEX2DEC(enter).csprojResolveAssemblyReference.cache
+E:\PRODAS XR5\LATIHAN\HEX2DEC(enter)\HEX2DEC(enter)\obj\Debug\HEX2DEC_enter_.Form1.resources
+E:\PRODAS XR5\LATIHAN\HEX2DEC(enter)\HEX2DEC(enter)\obj\Debug\HEX2DEC_enter_.Properties.Resources.resources
+E:\PRODAS XR5\LATIHAN\HEX2DEC(enter)\HEX2DEC(enter)\obj\Debug\HEX2DEC(enter).csproj.GenerateResource.Cache
+E:\PRODAS XR5\LATIHAN\HEX2DEC(enter)\HEX2DEC(enter)\bin\Debug\HEX2DEC(enter).exe
+E:\PRODAS XR5\LATIHAN\HEX2DEC(enter)\HEX2DEC(enter)\bin\Debug\HEX2DEC(enter).pdb
+E:\PRODAS XR5\LATIHAN\HEX2DEC(enter)\HEX2DEC(enter)\obj\Debug\HEX2DEC(enter).exe
+E:\PRODAS XR5\LATIHAN\HEX2DEC(enter)\HEX2DEC(enter)\obj\Debug\HEX2DEC(enter).pdb
