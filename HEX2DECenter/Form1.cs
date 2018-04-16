@@ -37,5 +37,10 @@ namespace HEX2DEC_enter_
                 textBox2.Text = DEC.ToString();
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

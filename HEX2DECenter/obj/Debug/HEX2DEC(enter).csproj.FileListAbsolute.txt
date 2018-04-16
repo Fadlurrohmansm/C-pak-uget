@@ -7,3 +7,12 @@ E:\PRODAS XR5\LATIHAN\HEX2DEC(enter)\HEX2DEC(enter)\bin\Debug\HEX2DEC(enter).exe
 E:\PRODAS XR5\LATIHAN\HEX2DEC(enter)\HEX2DEC(enter)\bin\Debug\HEX2DEC(enter).pdb
 E:\PRODAS XR5\LATIHAN\HEX2DEC(enter)\HEX2DEC(enter)\obj\Debug\HEX2DEC(enter).exe
 E:\PRODAS XR5\LATIHAN\HEX2DEC(enter)\HEX2DEC(enter)\obj\Debug\HEX2DEC(enter).pdb
+B:\Belajar\Nyobak GIt\C-pak-uget\HEX2DECenter\bin\Debug\HEX2DEC(enter).exe.config
+B:\Belajar\Nyobak GIt\C-pak-uget\HEX2DECenter\obj\Debug\HEX2DEC(enter).exe
+B:\Belajar\Nyobak GIt\C-pak-uget\HEX2DECenter\obj\Debug\HEX2DEC(enter).pdb
+B:\Belajar\Nyobak GIt\C-pak-uget\HEX2DECenter\bin\Debug\HEX2DEC(enter).exe
+B:\Belajar\Nyobak GIt\C-pak-uget\HEX2DECenter\bin\Debug\HEX2DEC(enter).pdb
+B:\Belajar\Nyobak GIt\C-pak-uget\HEX2DECenter\obj\Debug\HEX2DEC(enter).csprojResolveAssemblyReference.cache
+B:\Belajar\Nyobak GIt\C-pak-uget\HEX2DECenter\obj\Debug\HEX2DEC_enter_.Form1.resources
+B:\Belajar\Nyobak GIt\C-pak-uget\HEX2DECenter\obj\Debug\HEX2DEC_enter_.Properties.Resources.resources
+B:\Belajar\Nyobak GIt\C-pak-uget\HEX2DECenter\obj\Debug\HEX2DEC(enter).csproj.GenerateResource.Cache
